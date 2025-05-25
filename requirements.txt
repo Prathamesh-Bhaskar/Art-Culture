@@ -40,7 +40,7 @@ pandas
 pillow
 platformdirs
 proto-plus
-protobuf
+protobuf==3.20.3
 pyarrow
 pyasn1
 pyasn1_modules
